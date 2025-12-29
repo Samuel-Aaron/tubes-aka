@@ -1,6 +1,6 @@
 # tubes-aka
 Kelompok : The Struggler
-Anggoota : Samuel Aaron - 103012580024 dan Marthin M Tambunan
+Anggoota : Samuel Aaron - 103012580024 dan Marthin M Tambunan - 103012580055
 
 Judul : Analisis Efesiensi Waktu Eksekusi Manajemen Inventori Barang Menggunakan Algoritma FIFO
 
